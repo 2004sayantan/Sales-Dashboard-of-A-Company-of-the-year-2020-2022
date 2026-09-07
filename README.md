@@ -5,14 +5,23 @@ This project is an interactive Sales Dashboard created using Power BI to analyze
 The dashboard provides insights into:
 
 Total Sales
+
 Total Cost
+
 Total Quantity Sold
+
 Total Orders
+
 Total Profit
+
 Sales by Category
+
 Sales by Brand
+
 Sales by State using a map
+
 Sales performance by Year and Month
+
 Sales analysis by Supervisor
 
 The dashboard helps users easily understand sales performance and identify important trends using interactive charts, maps, filters, and visualizations.
